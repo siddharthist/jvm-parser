@@ -36,6 +36,7 @@ Library
                        data-binary-ieee754,
                        fgl,
                        fingertree,
+                       text,
                        zlib,
                        pretty
 
